@@ -1,0 +1,25 @@
+* {
+  transition: ease-in 250ms linear;
+}
+html {
+  scroll-behavior: smooth;
+}
+body {
+  padding: 3px;
+  margin: 10px;
+  text-align: center;
+  color: black;
+  background-color: #ff0
+}
+nav {
+  position: fixed;
+  display: flex;
+  left: 0;
+  top: 0;
+}
+video {
+  width: 50%;
+  height: auto;
+  margin: 10px;
+}
+
